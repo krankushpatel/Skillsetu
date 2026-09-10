@@ -1,0 +1,6 @@
+{
+  "name": "SkillSetu - Academia-Industry Skill Mapping & Placement Portal",
+  "description": "Portal for Academia-Industry collaboration for Skill Mapping, Internships and Placement (SIH PS 26044, Ministry of Ayush - AIIA)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
